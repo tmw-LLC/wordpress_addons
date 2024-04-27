@@ -1,0 +1,165 @@
+.jet-popup-url-input {
+	.block-editor-url-input {
+		position: relative;
+		input {
+			max-width: 100%;
+			font-size: 13px;
+			height: 30px;
+			line-height: 1;
+			min-height: 30px;
+			padding-left: 8px;
+			padding-right: 8px;
+			border: 1px solid rgb(117, 117, 117);
+			border-radius: 2px;
+		}
+	}
+}
+
+.jet-media-control {
+
+	&--image-preview {
+		.jet-media-control__preview {
+			width: 100%;
+		}
+	}
+
+	&__container {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-start;
+		align-items: center;
+		gap: 10px;
+	}
+
+	&__preview {
+		width: 30px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin: 0 !important;
+		height: auto;
+	}
+
+	.components-button {
+		& + .components-button {
+			margin: 0;
+		}
+	}
+}
+
+.jet-box-shadow-control-content {
+	.components-popover__content {
+		min-width: 250px;
+	}
+}
+
+.components-jet-box-shadow-control {
+	&__box {
+		padding: 3px 3px 3px 10px;
+		display: flex;
+		align-items: center;
+		border-radius: 2px;
+		border: 1px solid rgb(117, 117, 117);
+	}
+
+	&__verbose-value {
+		flex: 1 1 auto;
+	}
+
+	&__toggle {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		color: var( --wp-admin-theme-color );
+		width: 24px;
+		height: 24px;
+		cursor: pointer;
+	}
+
+	&__reset {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		color: var( --wp--preset--color--vivid-red );
+		width: 24px;
+		height: 24px;
+		cursor: pointer;
+	}
+}
+
+.jet-radio-group-control {
+	.components-button-group {
+		width: 100%;
+	}
+}
+
+.components-jet-background-control {
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	gap: 10px;
+
+	&__type-controls {
+		border: 1px solid #ddd;
+		padding: 8px;
+	}
+}
+
+.jet-background-control {
+	display: block;
+
+	&-toggle {
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+		gap: 5px;
+		cursor: pointer;
+	}
+}
+
+.jet-background-control-content {
+	.components-popover__content {
+
+	}
+}
+
+.components-jet-radio-control {
+	.components-flex {
+		flex-direction: row;
+		justify-content: flex-start;
+		gap: 10px;
+	}
+}
+
+.jet-color-picker-control {
+	display: block;
+
+	&-toggle {
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+		gap: 5px;
+		cursor: pointer;
+	}
+}
+
+.post-type-jet-popup {
+	background: red;
+
+	#elementor-switch-mode {
+		display: none;
+	}
+
+}
+
+.jet-base-control-inline {
+	.components-base-control__field {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+
+		.components-base-control__label {
+			margin-bottom: 0;
+		}
+	}
+}

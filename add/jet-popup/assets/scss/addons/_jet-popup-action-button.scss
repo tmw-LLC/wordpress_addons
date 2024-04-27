@@ -1,0 +1,109 @@
+.jet-popup-action-button {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: var( --jp-ab-hor-alignment, center );
+	align-items: center;
+
+	&__instance {
+		display: flex;
+		flex-flow: row nowrap;
+		justify-content: center;
+		align-items: center;
+		padding-top: var( --jp-ab-ver-padding, 8px );
+		padding-left: var( --jp-ab-hor-padding, 16px );
+		padding-bottom: var( --jp-ab-ver-padding, 8px );
+		padding-right: var( --jp-ab-hor-padding, 16px );
+		background-color: var( --jp-ab-bg-color, transparent );
+		gap: var( --jp-ab-icon-distance, 5px );
+		border-style: var( --jp-ab-border-style, solid );
+		border-width: var( --jp-ab-border-width, 0px );
+		border-color: var( --jp-ab-border-color, #000 );
+		border-radius: var( --jp-ab-border-radius, 0px );
+		cursor: pointer;
+		transition: all 0.3s ease;
+
+		&:hover {
+			background-color: var( --jp-ab-bg-hover-color, transparent );
+			border-color: var( --jp-ab-border-hover-color, #000 );
+
+			.jet-popup-action-button__icon {
+				color: var( --jp-ab-icon-hover-color, #000 );
+			}
+
+			.jet-popup-action-button__text {
+				color: var( --jp-ab-label-hover-color, #000 );
+			}
+		}
+
+	}
+
+	&__icon {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		width: var( --jp-ab-icon-size, auto );
+		color: var( --jp-ab-icon-color, #000 );
+		transition: all 0.3s ease;
+
+		svg {
+			width: 100%;
+			height: auto;
+			fill: currentColor;
+
+			path {
+				fill: currentColor;
+			}
+		}
+	}
+
+	&__text {
+		text-decoration: none;
+		color: var( --jp-ab-label-color, #000 );
+		transition: all 0.3s ease;
+	}
+
+	&--left {
+		justify-content: flex-start;
+	}
+
+	&--center {
+		justify-content: center;
+	}
+
+	&--right {
+		justify-content: flex-end;
+	}
+
+	&--justified {
+		justify-content: center;
+
+		.jet-popup-action-button__instance {
+			width: 100%;
+		}
+	}
+}
+
+.jet-popup-action-button--icon-before {
+
+	.jet-popup-action-button__icon {
+		order: 1;
+		margin-right: 5px;
+	}
+
+	.jet-popup-action-button__text {
+		order: 2;
+	}
+
+}
+
+.jet-popup-action-button--icon-after {
+	.jet-popup-action-button__icon {
+		order: 2;
+		margin-left: 5px;
+	}
+
+	.jet-popup-action-button__text {
+		order: 1;
+	}
+
+}

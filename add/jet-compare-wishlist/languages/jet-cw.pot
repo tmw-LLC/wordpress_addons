@@ -1,0 +1,2087 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jet CompareWishlist for Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-11 09:54+0200\n"
+"PO-Revision-Date: 2018-07-18 10:38+0200\n"
+"Last-Translator: Alex <ano.vladimir@gmail.com>\n"
+"Language-Team: Crocoblock\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;__;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: cherry-framework\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: includes/class-jet-cw-integration.php:124 jet-cw.php:218 jet-cw.php:233
+#: jet-cw.php:284
+msgid "Jet Compare Wishlist"
+msgstr ""
+
+#: includes/class-jet-cw-settings.php:91
+msgid "Session"
+msgstr ""
+
+#: includes/class-jet-cw-settings.php:95
+msgid "Cookies"
+msgstr ""
+
+#: includes/class-jet-cw-settings.php:102
+msgid "2 item"
+msgstr ""
+
+#: includes/class-jet-cw-settings.php:106
+msgid "3 item"
+msgstr ""
+
+#: includes/class-jet-cw-settings.php:110
+msgid "4 item"
+msgstr ""
+
+#: includes/class-jet-cw-settings.php:119
+msgid "Saved"
+msgstr ""
+
+#: includes/class-jet-cw-settings.php:120
+msgid "Error"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:100
+msgid "Full"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:130
+msgid "Rating 1"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:131
+msgid "Rating 2"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:132
+msgid "Rating 3"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:133
+msgid "Rating 4"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:134
+msgid "Rating 5"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:135
+msgid "Rating 6"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:136
+msgid "Rating 7"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:137
+msgid "Rating 8"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:138
+msgid "Rating 9"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:139
+msgid "Rating 10"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:140
+msgid "Rating 11"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:141
+msgid "Rating 12"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:142
+msgid "Rating 13"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:143
+msgid "Rating 14"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:185
+#: includes/widgets/compare/jet-compare-widget.php:1289
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2073
+msgid "Remove Button"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:186 includes/class-jet-cw-tools.php:221
+#: includes/widgets/compare/jet-compare-widget.php:103
+#: includes/widgets/compare/jet-compare-widget.php:391
+#: includes/widgets/compare/jet-compare-widget.php:1598
+#: includes/widgets/wishlist/jet-wishlist-widget.php:139
+#: includes/widgets/wishlist/jet-wishlist-widget.php:989
+msgid "Title"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:187
+#: includes/widgets/compare/jet-compare-widget.php:387
+#: includes/widgets/compare/jet-compare-widget.php:1533
+#: includes/widgets/wishlist/jet-wishlist-widget.php:550
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:188
+#: includes/widgets/compare/jet-compare-widget.php:1672
+#: includes/widgets/wishlist/jet-wishlist-widget.php:310
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1110
+msgid "Price"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:189
+#: includes/widgets/compare/jet-compare-widget.php:1980
+#: includes/widgets/wishlist/jet-wishlist-widget.php:255
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1586
+msgid "Rating"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:190
+#: includes/widgets/compare/jet-compare-widget.php:2084
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1738
+msgid "Add To Cart"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:191
+#: includes/widgets/compare/jet-compare-widget.php:2374
+msgid "Description"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:192
+#: includes/widgets/compare/jet-compare-widget.php:2415
+msgid "Short Description"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:193
+#: includes/widgets/compare/jet-compare-widget.php:2456
+#: includes/widgets/wishlist/jet-wishlist-widget.php:331
+#: includes/widgets/wishlist/jet-wishlist-widget.php:803
+msgid "SKU"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:194
+#: includes/widgets/compare/jet-compare-widget.php:2497
+#: includes/widgets/wishlist/jet-wishlist-widget.php:321
+#: includes/widgets/wishlist/jet-wishlist-widget.php:879
+msgid "Stock Status"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:195
+#: includes/widgets/compare/jet-compare-widget.php:2572
+msgid "Weight"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:196
+#: includes/widgets/compare/jet-compare-widget.php:2613
+msgid "Dimensions"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:197
+#: includes/widgets/compare/jet-compare-widget.php:2654
+msgid "Attributes"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:198
+#: includes/widgets/compare/jet-compare-widget.php:2695
+#: includes/widgets/wishlist/jet-wishlist-widget.php:290
+#: includes/widgets/wishlist/jet-wishlist-widget.php:692
+msgid "Categories"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:199
+#: includes/widgets/compare/jet-compare-widget.php:2771
+#: includes/widgets/wishlist/jet-wishlist-widget.php:300
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2384
+msgid "Tags"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:200
+msgid "Custom Field"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:204
+msgid "Add to Wishlist"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:218 includes/class-jet-cw-tools.php:336
+msgid "None"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:219
+msgid "ID"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:220
+msgid "Author"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:222
+msgid "Name (slug)"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:223
+msgid "Date"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:224
+msgid "Modified"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:225
+msgid "Rand"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:226
+msgid "Comment Count"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:227
+msgid "Menu Order"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:238
+msgid "Descending"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:239
+msgid "Ascending"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:250
+msgid "Baseline"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:251
+#: includes/compare/class-jet-cw-compare-integration.php:172
+#: includes/widgets/compare/jet-compare-count-button.php:78
+#: includes/widgets/compare/jet-compare-widget.php:269
+#: includes/widgets/compare/jet-compare-widget.php:1070
+#: includes/widgets/compare/jet-compare-widget.php:1262
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:78
+#: includes/widgets/wishlist/jet-wishlist-widget.php:520
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:173
+msgid "Top"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:252
+#: includes/widgets/compare/jet-compare-widget.php:1074
+#: includes/widgets/compare/jet-compare-widget.php:1266
+#: includes/widgets/wishlist/jet-wishlist-widget.php:524
+msgid "Middle"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:253
+#: includes/compare/class-jet-cw-compare-integration.php:174
+#: includes/widgets/compare/jet-compare-count-button.php:80
+#: includes/widgets/compare/jet-compare-widget.php:271
+#: includes/widgets/compare/jet-compare-widget.php:1078
+#: includes/widgets/compare/jet-compare-widget.php:1270
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:80
+#: includes/widgets/wishlist/jet-wishlist-widget.php:528
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:175
+msgid "Bottom"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:254
+msgid "Sub"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:255
+msgid "Super"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:256
+msgid "Text Top"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:257
+msgid "Text Bottom"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:268
+msgid "H1"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:269
+msgid "H2"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:270
+msgid "H3"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:271
+msgid "H4"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:272
+msgid "H5"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:273
+msgid "H6"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:274
+msgid "div"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:275
+msgid "span"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:276
+msgid "p"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:293
+#: includes/widgets/compare/jet-compare-widget.php:853
+msgid "Start"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:297 includes/class-jet-cw-tools.php:319
+#: includes/widgets/compare/jet-compare-count-button.php:159
+#: includes/widgets/compare/jet-compare-widget.php:857
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:159
+msgid "Center"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:301
+#: includes/widgets/compare/jet-compare-widget.php:861
+msgid "End"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:315
+#: includes/compare/class-jet-cw-compare-integration.php:171
+#: includes/widgets/compare/jet-compare-count-button.php:77
+#: includes/widgets/compare/jet-compare-widget.php:268
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:77
+#: includes/widgets/wishlist/jet-wishlist-widget.php:241
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:172
+msgid "Left"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:323
+#: includes/compare/class-jet-cw-compare-integration.php:173
+#: includes/widgets/compare/jet-compare-count-button.php:79
+#: includes/widgets/compare/jet-compare-widget.php:270
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:79
+#: includes/widgets/wishlist/jet-wishlist-widget.php:242
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:174
+msgid "Right"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:337
+msgid "Line Through"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:338
+msgid "Underline"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:349
+msgid "100"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:350
+msgid "200"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:351
+msgid "300"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:352
+msgid "400"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:353
+msgid "500"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:354
+msgid "600"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:355
+msgid "700"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:356
+msgid "800"
+msgstr ""
+
+#: includes/class-jet-cw-tools.php:357
+msgid "900"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:99
+#: includes/compare/class-jet-cw-compare-integration.php:224
+msgid "Add To Compare"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:102
+#: includes/compare/class-jet-cw-compare-integration.php:268
+msgid "View Compare"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:126
+#: includes/compare/class-jet-cw-compare-integration.php:334
+#: includes/widgets/compare/jet-compare-count-button.php:56
+#: includes/widgets/compare/jet-compare-widget.php:28
+#: includes/widgets/compare/jet-compare-widget.php:83
+msgid "Compare"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:134
+#: includes/compare/class-jet-cw-compare-integration.php:144
+#: includes/widgets/compare/jet-compare-button.php:21
+msgid "Compare Button"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:136
+#: includes/compare/class-jet-cw-compare-integration.php:156
+#: includes/widgets/compare/jet-compare-count-button.php:65
+#: includes/widgets/compare/jet-compare-count-button.php:114
+#: includes/widgets/compare/jet-compare-widget.php:253
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:65
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:114
+#: includes/widgets/wishlist/jet-wishlist-widget.php:140
+#: includes/widgets/wishlist/jet-wishlist-widget.php:256
+#: includes/widgets/wishlist/jet-wishlist-widget.php:281
+#: includes/widgets/wishlist/jet-wishlist-widget.php:291
+#: includes/widgets/wishlist/jet-wishlist-widget.php:301
+#: includes/widgets/wishlist/jet-wishlist-widget.php:311
+#: includes/widgets/wishlist/jet-wishlist-widget.php:322
+#: includes/widgets/wishlist/jet-wishlist-widget.php:332
+#: includes/widgets/wishlist/jet-wishlist-widget.php:342
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:137
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:157
+msgid "Show"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:137
+#: includes/compare/class-jet-cw-compare-integration.php:157
+#: includes/widgets/compare/jet-compare-count-button.php:66
+#: includes/widgets/compare/jet-compare-count-button.php:115
+#: includes/widgets/compare/jet-compare-widget.php:254
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:66
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:115
+#: includes/widgets/wishlist/jet-wishlist-widget.php:141
+#: includes/widgets/wishlist/jet-wishlist-widget.php:257
+#: includes/widgets/wishlist/jet-wishlist-widget.php:282
+#: includes/widgets/wishlist/jet-wishlist-widget.php:292
+#: includes/widgets/wishlist/jet-wishlist-widget.php:302
+#: includes/widgets/wishlist/jet-wishlist-widget.php:312
+#: includes/widgets/wishlist/jet-wishlist-widget.php:323
+#: includes/widgets/wishlist/jet-wishlist-widget.php:333
+#: includes/widgets/wishlist/jet-wishlist-widget.php:343
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:138
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:158
+msgid "Hide"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:154
+#: includes/compare/class-jet-cw-compare-integration.php:204
+#: includes/compare/class-jet-cw-compare-integration.php:248
+#: includes/compare/class-jet-cw-compare-integration.php:625
+#: includes/widgets/compare/jet-compare-count-button.php:63
+#: includes/widgets/compare/jet-compare-count-button.php:93
+#: includes/widgets/compare/jet-compare-count-button.php:412
+#: includes/widgets/compare/jet-compare-widget.php:251
+#: includes/widgets/compare/jet-compare-widget.php:301
+#: includes/widgets/compare/jet-compare-widget.php:346
+#: includes/widgets/compare/jet-compare-widget.php:1426
+#: includes/widgets/compare/jet-compare-widget.php:3314
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:63
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:93
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:411
+#: includes/widgets/wishlist/jet-wishlist-widget.php:265
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2089
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2276
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:155
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:205
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:249
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:623
+msgid "Icon"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:168
+#: includes/widgets/compare/jet-compare-widget.php:265
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:169
+msgid "Icon Position"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:197
+#: includes/compare/class-jet-cw-compare-integration.php:413
+#: includes/compare/class-jet-cw-compare-integration.php:636
+#: includes/widgets/compare/jet-compare-count-button.php:259
+#: includes/widgets/compare/jet-compare-count-button.php:454
+#: includes/widgets/compare/jet-compare-count-button.php:604
+#: includes/widgets/compare/jet-compare-widget.php:294
+#: includes/widgets/compare/jet-compare-widget.php:463
+#: includes/widgets/compare/jet-compare-widget.php:540
+#: includes/widgets/compare/jet-compare-widget.php:935
+#: includes/widgets/compare/jet-compare-widget.php:1137
+#: includes/widgets/compare/jet-compare-widget.php:1307
+#: includes/widgets/compare/jet-compare-widget.php:1485
+#: includes/widgets/compare/jet-compare-widget.php:1624
+#: includes/widgets/compare/jet-compare-widget.php:2124
+#: includes/widgets/compare/jet-compare-widget.php:2713
+#: includes/widgets/compare/jet-compare-widget.php:2789
+#: includes/widgets/compare/jet-compare-widget.php:2974
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:258
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:453
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:603
+#: includes/widgets/wishlist/jet-wishlist-widget.php:721
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1010
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1781
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2114
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2336
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2413
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2504
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:198
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:411
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:634
+msgid "Normal"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:222
+#: includes/compare/class-jet-cw-compare-integration.php:266
+#: includes/widgets/compare/jet-compare-count-button.php:54
+#: includes/widgets/compare/jet-compare-widget.php:320
+#: includes/widgets/compare/jet-compare-widget.php:365
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:54
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2081
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:223
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:267
+msgid "Label"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:233
+#: includes/compare/class-jet-cw-compare-integration.php:507
+#: includes/compare/class-jet-cw-compare-integration.php:706
+#: includes/widgets/compare/jet-compare-widget.php:331
+#: includes/widgets/compare/jet-compare-widget.php:2219
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1876
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:234
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:505
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:704
+msgid "Added"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:240
+#: includes/widgets/compare/jet-compare-widget.php:338
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:241
+msgid "Use as Remove Button"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:281
+#: includes/widgets/wishlist/jet-wishlist-widget.php:669
+#: includes/widgets/wishlist/jet-wishlist-widget.php:780
+#: includes/widgets/wishlist/jet-wishlist-widget.php:856
+#: includes/widgets/wishlist/jet-wishlist-widget.php:966
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1087
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1358
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1563
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1715
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2050
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2259
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2471
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:282
+msgid "Order"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:345
+#: includes/widgets/compare/jet-compare-count-button.php:191
+#: includes/widgets/compare/jet-compare-widget.php:2875
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:190
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:343
+msgid "Custom Size"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:353
+#: includes/widgets/compare/jet-compare-count-button.php:199
+#: includes/widgets/compare/jet-compare-count-button.php:545
+#: includes/widgets/compare/jet-compare-widget.php:800
+#: includes/widgets/compare/jet-compare-widget.php:893
+#: includes/widgets/compare/jet-compare-widget.php:2092
+#: includes/widgets/compare/jet-compare-widget.php:2884
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:198
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:544
+#: includes/widgets/wishlist/jet-wishlist-widget.php:558
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1749
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:351
+msgid "Width"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:378
+#: includes/widgets/compare/jet-compare-count-button.php:224
+#: includes/widgets/compare/jet-compare-count-button.php:570
+#: includes/widgets/compare/jet-compare-widget.php:2913
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:223
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:569
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:376
+msgid "Height"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:420
+#: includes/compare/class-jet-cw-compare-integration.php:460
+#: includes/compare/class-jet-cw-compare-integration.php:514
+#: includes/compare/class-jet-cw-compare-integration.php:643
+#: includes/compare/class-jet-cw-compare-integration.php:693
+#: includes/compare/class-jet-cw-compare-integration.php:713
+#: includes/widgets/compare/jet-compare-count-button.php:266
+#: includes/widgets/compare/jet-compare-count-button.php:297
+#: includes/widgets/compare/jet-compare-count-button.php:461
+#: includes/widgets/compare/jet-compare-count-button.php:481
+#: includes/widgets/compare/jet-compare-count-button.php:611
+#: includes/widgets/compare/jet-compare-count-button.php:642
+#: includes/widgets/compare/jet-compare-widget.php:942
+#: includes/widgets/compare/jet-compare-widget.php:1314
+#: includes/widgets/compare/jet-compare-widget.php:1345
+#: includes/widgets/compare/jet-compare-widget.php:1492
+#: includes/widgets/compare/jet-compare-widget.php:1512
+#: includes/widgets/compare/jet-compare-widget.php:1631
+#: includes/widgets/compare/jet-compare-widget.php:1651
+#: includes/widgets/compare/jet-compare-widget.php:1688
+#: includes/widgets/compare/jet-compare-widget.php:1725
+#: includes/widgets/compare/jet-compare-widget.php:1788
+#: includes/widgets/compare/jet-compare-widget.php:1855
+#: includes/widgets/compare/jet-compare-widget.php:1905
+#: includes/widgets/compare/jet-compare-widget.php:1942
+#: includes/widgets/compare/jet-compare-widget.php:2041
+#: includes/widgets/compare/jet-compare-widget.php:2062
+#: includes/widgets/compare/jet-compare-widget.php:2131
+#: includes/widgets/compare/jet-compare-widget.php:2170
+#: includes/widgets/compare/jet-compare-widget.php:2226
+#: includes/widgets/compare/jet-compare-widget.php:2284
+#: includes/widgets/compare/jet-compare-widget.php:2390
+#: includes/widgets/compare/jet-compare-widget.php:2431
+#: includes/widgets/compare/jet-compare-widget.php:2472
+#: includes/widgets/compare/jet-compare-widget.php:2522
+#: includes/widgets/compare/jet-compare-widget.php:2542
+#: includes/widgets/compare/jet-compare-widget.php:2588
+#: includes/widgets/compare/jet-compare-widget.php:2629
+#: includes/widgets/compare/jet-compare-widget.php:2670
+#: includes/widgets/compare/jet-compare-widget.php:2720
+#: includes/widgets/compare/jet-compare-widget.php:2741
+#: includes/widgets/compare/jet-compare-widget.php:2796
+#: includes/widgets/compare/jet-compare-widget.php:2817
+#: includes/widgets/compare/jet-compare-widget.php:2981
+#: includes/widgets/compare/jet-compare-widget.php:3061
+#: includes/widgets/compare/jet-compare-widget.php:3147
+#: includes/widgets/compare/jet-compare-widget.php:3233
+#: includes/widgets/compare/jet-compare-widget.php:3500
+#: includes/widgets/compare/jet-compare-widget.php:3564
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:265
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:296
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:460
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:480
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:610
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:641
+#: includes/widgets/wishlist/jet-wishlist-widget.php:728
+#: includes/widgets/wishlist/jet-wishlist-widget.php:749
+#: includes/widgets/wishlist/jet-wishlist-widget.php:822
+#: includes/widgets/wishlist/jet-wishlist-widget.php:915
+#: includes/widgets/wishlist/jet-wishlist-widget.php:935
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1017
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1037
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1187
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1207
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1271
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1384
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1421
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1458
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1529
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1650
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1671
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1788
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1827
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1883
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1940
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2121
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2152
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2343
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2363
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2420
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2441
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2568
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:418
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:458
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:512
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:641
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:691
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:711
+msgid "Color"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:432
+#: includes/compare/class-jet-cw-compare-integration.php:472
+#: includes/compare/class-jet-cw-compare-integration.php:527
+#: includes/widgets/compare/jet-compare-count-button.php:277
+#: includes/widgets/compare/jet-compare-count-button.php:308
+#: includes/widgets/compare/jet-compare-count-button.php:622
+#: includes/widgets/compare/jet-compare-count-button.php:653
+#: includes/widgets/compare/jet-compare-widget.php:953
+#: includes/widgets/compare/jet-compare-widget.php:1325
+#: includes/widgets/compare/jet-compare-widget.php:1356
+#: includes/widgets/compare/jet-compare-widget.php:1541
+#: includes/widgets/compare/jet-compare-widget.php:2142
+#: includes/widgets/compare/jet-compare-widget.php:2181
+#: includes/widgets/compare/jet-compare-widget.php:2237
+#: includes/widgets/compare/jet-compare-widget.php:2295
+#: includes/widgets/compare/jet-compare-widget.php:3511
+#: includes/widgets/compare/jet-compare-widget.php:3575
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:276
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:307
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:621
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:652
+#: includes/widgets/wishlist/jet-wishlist-widget.php:465
+#: includes/widgets/wishlist/jet-wishlist-widget.php:591
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1799
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1838
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1894
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1951
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2132
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2163
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2511
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2531
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2579
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:430
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:470
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:525
+msgid "Background Color"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:453
+#: includes/compare/class-jet-cw-compare-integration.php:686
+#: includes/widgets/compare/jet-compare-count-button.php:290
+#: includes/widgets/compare/jet-compare-count-button.php:474
+#: includes/widgets/compare/jet-compare-count-button.php:635
+#: includes/widgets/compare/jet-compare-widget.php:980
+#: includes/widgets/compare/jet-compare-widget.php:1171
+#: includes/widgets/compare/jet-compare-widget.php:1338
+#: includes/widgets/compare/jet-compare-widget.php:1505
+#: includes/widgets/compare/jet-compare-widget.php:1644
+#: includes/widgets/compare/jet-compare-widget.php:2163
+#: includes/widgets/compare/jet-compare-widget.php:2734
+#: includes/widgets/compare/jet-compare-widget.php:2810
+#: includes/widgets/compare/jet-compare-widget.php:3054
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:289
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:473
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:634
+#: includes/widgets/wishlist/jet-wishlist-widget.php:742
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1030
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1820
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2145
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2356
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2434
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2524
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:451
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:684
+msgid "Hover"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:483
+#: includes/compare/class-jet-cw-compare-integration.php:538
+#: includes/widgets/compare/jet-compare-count-button.php:319
+#: includes/widgets/compare/jet-compare-count-button.php:664
+#: includes/widgets/compare/jet-compare-widget.php:1367
+#: includes/widgets/compare/jet-compare-widget.php:2192
+#: includes/widgets/compare/jet-compare-widget.php:2248
+#: includes/widgets/compare/jet-compare-widget.php:2306
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:318
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:663
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1849
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1905
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1962
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2174
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:481
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:536
+msgid "Border Color"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:565
+#: includes/widgets/compare/jet-compare-widget.php:3523
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:563
+msgid "Border"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:574
+#: includes/widgets/compare/jet-compare-count-button.php:354
+#: includes/widgets/compare/jet-compare-count-button.php:694
+#: includes/widgets/compare/jet-compare-widget.php:829
+#: includes/widgets/compare/jet-compare-widget.php:1394
+#: includes/widgets/compare/jet-compare-widget.php:1560
+#: includes/widgets/compare/jet-compare-widget.php:2344
+#: includes/widgets/compare/jet-compare-widget.php:3032
+#: includes/widgets/compare/jet-compare-widget.php:3115
+#: includes/widgets/compare/jet-compare-widget.php:3201
+#: includes/widgets/compare/jet-compare-widget.php:3287
+#: includes/widgets/compare/jet-compare-widget.php:3401
+#: includes/widgets/compare/jet-compare-widget.php:3602
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:353
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:693
+#: includes/widgets/wishlist/jet-wishlist-widget.php:484
+#: includes/widgets/wishlist/jet-wishlist-widget.php:610
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2000
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2201
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2606
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:572
+msgid "Border Radius"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:588
+#: includes/compare/class-jet-cw-compare-integration.php:672
+#: includes/compare/class-jet-cw-compare-integration.php:742
+#: includes/widgets/compare/jet-compare-count-button.php:386
+#: includes/widgets/compare/jet-compare-count-button.php:496
+#: includes/widgets/compare/jet-compare-count-button.php:709
+#: includes/widgets/compare/jet-compare-widget.php:3445
+#: includes/widgets/compare/jet-compare-widget.php:3614
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:385
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:495
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:708
+#: includes/widgets/wishlist/jet-wishlist-widget.php:631
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1062
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1330
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1687
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2012
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2221
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2618
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:586
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:670
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:740
+msgid "Margin"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:600
+#: includes/widgets/compare/jet-compare-count-button.php:374
+#: includes/widgets/compare/jet-compare-widget.php:1041
+#: includes/widgets/compare/jet-compare-widget.php:1233
+#: includes/widgets/compare/jet-compare-widget.php:1414
+#: includes/widgets/compare/jet-compare-widget.php:1580
+#: includes/widgets/compare/jet-compare-widget.php:2356
+#: includes/widgets/compare/jet-compare-widget.php:3457
+#: includes/widgets/compare/jet-compare-widget.php:3626
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:373
+#: includes/widgets/wishlist/jet-wishlist-widget.php:438
+#: includes/widgets/wishlist/jet-wishlist-widget.php:504
+#: includes/widgets/wishlist/jet-wishlist-widget.php:643
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2024
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2233
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2630
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:598
+msgid "Padding"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:612
+#: includes/widgets/compare/jet-compare-count-button.php:398
+#: includes/widgets/compare/jet-compare-widget.php:849
+#: includes/widgets/compare/jet-compare-widget.php:3469
+#: includes/widgets/compare/jet-compare-widget.php:3638
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:397
+#: includes/widgets/wishlist/jet-wishlist-widget.php:655
+#: includes/widgets/wishlist/jet-wishlist-widget.php:764
+#: includes/widgets/wishlist/jet-wishlist-widget.php:841
+#: includes/widgets/wishlist/jet-wishlist-widget.php:950
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1073
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1343
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1548
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1700
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2036
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2245
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2456
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2642
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:610
+msgid "Alignment"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-integration.php:654
+#: includes/compare/class-jet-cw-compare-integration.php:724
+#: includes/widgets/compare/jet-compare-widget.php:1736
+#: includes/widgets/compare/jet-compare-widget.php:1799
+#: includes/widgets/compare/jet-compare-widget.php:3323
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1219
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1283
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:652
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:722
+msgid "Font Size"
+msgstr ""
+
+#: includes/compare/class-jet-cw-compare-render.php:125
+#: includes/wishlist/class-jet-cw-wishlist-render.php:123
+msgid "Product ID not found."
+msgstr ""
+
+#: includes/lib/compatibility/class-jet-cw-compatibility.php:177
+msgid ""
+"Jet Compare: You have no comparison lists. Add products to the comparison."
+msgstr ""
+
+#: includes/lib/compatibility/class-jet-cw-compatibility.php:188
+msgid "Jet Compare Button: Add To Compare"
+msgstr ""
+
+#: includes/lib/compatibility/class-jet-cw-compatibility.php:193
+msgid "Jet Compare Button: View Compare"
+msgstr ""
+
+#: includes/lib/compatibility/class-jet-cw-compatibility.php:204
+msgid "Jet Compare Count Button: Compare"
+msgstr ""
+
+#: includes/lib/compatibility/class-jet-cw-compatibility.php:209
+#, php-format
+msgid "Jet Compare Count Button: (%s)"
+msgstr ""
+
+#: includes/lib/compatibility/class-jet-cw-compatibility.php:220
+msgid "Jet Wishlist: No products were added to the wishlist."
+msgstr ""
+
+#: includes/lib/compatibility/class-jet-cw-compatibility.php:231
+msgid "Jet Wishlist Button: Add To Wishlist"
+msgstr ""
+
+#: includes/lib/compatibility/class-jet-cw-compatibility.php:236
+msgid "Jet Wishlist Button: View Wishlist"
+msgstr ""
+
+#: includes/lib/compatibility/class-jet-cw-compatibility.php:247
+msgid "Jet Wishlist Count Button: Wishlist"
+msgstr ""
+
+#: includes/lib/compatibility/class-jet-cw-compatibility.php:252
+#, php-format
+msgid "Jet Wishlist Count Button: (%s)"
+msgstr ""
+
+#: includes/lib/compatibility/modules/class-wpml-jet-cw-compare.php:36
+msgid "Jet Compare: Title"
+msgstr ""
+
+#: includes/lib/compatibility/modules/class-wpml-jet-cw-compare.php:38
+msgid "Jet Compare: Remove"
+msgstr ""
+
+#: includes/modules/db-updater/cherry-x-db-updater.php:83
+#, php-format
+msgid ""
+"Module DB Updater init error in %s - version and slug is required "
+"arguments"
+msgstr ""
+
+#: includes/modules/db-updater/cherry-x-db-updater.php:84
+msgid "We need to update your database to the latest version."
+msgstr ""
+
+#: includes/modules/db-updater/cherry-x-db-updater.php:85
+msgid "Update complete, thank you for updating to the latest version!"
+msgstr ""
+
+#: includes/modules/db-updater/cherry-x-db-updater.php:280
+msgid "Start Update"
+msgstr ""
+
+#: includes/modules/db-updater/cherry-x-db-updater.php:318
+msgid "Data Update"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:46
+msgid "Go to docs"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:329
+#, javascript-format
+msgid "You can update <b>%s plugin</b>"
+msgid_plural "You can update <b>%s plugins</b>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:330
+msgid "All plugins updated"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:334
+msgid "Activate license to update your JetPlugins"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:341
+#, javascript-format
+msgid "You can install <b>%s more Plugin</b> with your licence"
+msgid_plural "You can install <b>%s more Plugins</b>  with your licence"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:342
+msgid "All available plugins are already installed"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:372
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:380
+msgid "Try quickstart installation"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:377
+msgid "Unpack Free All-inclusive items"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:451
+msgid "<b class=\"lifetime\">Lifetime</b>"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:454
+#, javascript-format
+msgid "Licence expires <b class=\"expire-date\">%s</b>"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/license-manager.php:253
+msgid "License expires soon!"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/license-manager.php:254
+msgid ""
+"Your primary license will expire in 30 days. You can renew you current "
+"licese in your crocoblock account"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/license-manager.php:257
+msgid "Go to account"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/license/module.php:37
+msgid "Plugin Manager"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/license/module.php:65
+#: includes/modules/jet-dashboard/inc/modules/license/module.php:66
+msgid "Update & Installation"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/license/module.php:84
+#: includes/modules/jet-dashboard/inc/modules/license/module.php:85
+msgid "License"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/settings/module.php:43
+#: includes/widgets/compare/jet-compare-widget.php:600
+msgid "Settings"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/settings/module.php:74
+#: includes/modules/jet-dashboard/inc/modules/settings/module.php:75
+msgid "JetPlugins Settings"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:49
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:189
+#: includes/modules/jet-dashboard/views/upsale/main.php:38
+msgid "Get Crocoblock"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:110
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:111
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:183
+msgid "Go Lifetime"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:128
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:129
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:186
+msgid "Go All-Inclusive"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/welcome/dev-test.php:37
+msgid "Dev Test Page"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/welcome/module.php:37
+msgid "Welcome"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/plugin-manager.php:224
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: includes/modules/jet-dashboard/jet-dashboard.php:244
+#: includes/modules/jet-dashboard/jet-dashboard.php:245
+msgid "Crocoblock"
+msgstr ""
+
+#: includes/modules/jet-dashboard/jet-dashboard.php:257
+#: includes/modules/jet-dashboard/jet-dashboard.php:258
+msgid "Dashboard"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/common/sidebar.php:28
+msgid "New to Crocoblock?"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/common/sidebar.php:29
+msgid "Start Here"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/common/sidebar.php:63
+msgid "Support & Info"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/common/sidebar.php:64
+msgid "Help Center"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:9
+msgid "JetPlugins License Activation"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:10
+msgid "Congratulations!"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:10
+msgid "Your license has been activated!"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:13
+msgid "Activate license for automatic updates and awesome support"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:32
+#: includes/modules/jet-dashboard/views/license/license-item.php:103
+#: includes/modules/jet-dashboard/views/license/main.php:146
+msgid "Activate License"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:33
+#: includes/modules/jet-dashboard/views/license/license-item.php:104
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:44
+msgid "License Key:"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:48
+msgid "Product Name:"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:52
+msgid "Status:"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:56
+msgid "Type:"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:60
+msgid "Expiration Date:"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:64
+msgid "Included Plugins:"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:84
+msgid ""
+"This license will activate licenses for all plugins included in this set."
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:94
+#: includes/modules/jet-dashboard/views/license/main.php:35
+#: includes/modules/jet-dashboard/views/license/main.php:115
+msgid "License Manager"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:10
+msgid "Your Installed JetPlugins"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:22
+msgid "Check For Updates"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:54
+msgid "More included JetPlugins with your licence"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:70
+#: includes/modules/jet-dashboard/views/welcome/main.php:207
+msgid "Get More Plugins"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:105
+msgid "JetPlugins License Deactivation"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:108
+msgid ""
+"Your license includes several plugins within the package. License "
+"deactivation in one plugin disables it in the rest of them. You can "
+"manage it through the License Manager."
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:128
+msgid "JetPlugin’s Update"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:139
+msgid "Sorry, but you need to activate license to update your JetPlugin"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:160
+msgid "Your Licenses"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:169
+msgid "Add New License"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:174
+msgid ""
+"Add and Activate license for automatic updates, awesome support, useful "
+"features and more"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/upsale/main.php:12
+msgid "Dynamic"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/upsale/main.php:18
+msgid "E-commerce"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/upsale/main.php:24
+msgid "Design"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/upsale/main.php:27
+msgid "18 Advanced JetPlugins"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/upsale/main.php:28
+msgid ""
+"Unlock the ultimate website building toolkit for Elementor 150+ widgets "
+"and 50+ templates"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:20
+msgid "Manage plugins"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:21
+msgid "Updates"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:35
+msgid "Update Now"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:45
+#: includes/modules/jet-dashboard/views/welcome/main.php:95
+msgid "Activate Now"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:60
+msgid "Manage license"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:61
+msgid "Active Licence"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:85
+msgid "License not active"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:94
+msgid "Manage Now"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:109
+msgid "Installed JetPlugins"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:135
+msgid "Install"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:168
+msgid "Install Wizard"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:179
+msgid "Activate Wizard"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:191
+msgid "Enjoy the perks of All-inclusive"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:223
+msgid "Get a JetPlugins bundle"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:224
+msgid "Save up to 60%"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:234
+msgid "See all plans"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:246
+msgid "Hot Deals"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/plugin-item-registered.php:29
+msgid "Documentation"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/plugin-item-registered.php:55
+msgid "Plugin pages"
+msgstr ""
+
+#: includes/rest-api/endpoints/plugin-settings.php:49
+msgid "Server Error"
+msgstr ""
+
+#: includes/rest-api/endpoints/plugin-settings.php:61
+msgid "Settings have been saved"
+msgstr ""
+
+#: includes/settings/manager.php:57 jet-cw.php:258
+msgid "JetCompareWishlist"
+msgstr ""
+
+#: includes/settings/subpage-modules/avaliable-addons.php:39
+msgid "Widgets"
+msgstr ""
+
+#: includes/settings/subpage-modules/compare.php:38
+msgid "Compare Settings"
+msgstr ""
+
+#: includes/settings/subpage-modules/wishlist.php:39
+msgid "Wishlist Settings"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:27
+msgid "Compare Count Button"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:47
+#: includes/widgets/compare/jet-compare-count-button.php:183
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:47
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:182
+msgid "Button"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:74
+#: includes/widgets/compare/jet-compare-count-button.php:147
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:74
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:147
+msgid "Position"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:112
+#: includes/widgets/compare/jet-compare-count-button.php:512
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:112
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:511
+msgid "Count"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:123
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:123
+msgid "Hide Empty"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:134
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:134
+msgid "Format"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:137
+msgid "Display format for count items that added to comparison."
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:151
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:151
+msgid "Top Right"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:152
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:152
+msgid "Center Right"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:153
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:153
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:154
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:154
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:155
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:155
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:156
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:156
+msgid "Center Left"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:157
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:157
+msgid "Top Left"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:158
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:158
+msgid "Top Center"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-count-button.php:424
+#: includes/widgets/compare/jet-compare-count-button.php:524
+#: includes/widgets/compare/jet-compare-widget.php:1435
+#: includes/widgets/compare/jet-compare-widget.php:1866
+#: includes/widgets/compare/jet-compare-widget.php:1916
+#: includes/widgets/compare/jet-compare-widget.php:1953
+#: includes/widgets/compare/jet-compare-widget.php:1988
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:423
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:523
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1395
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1432
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1469
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1597
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2285
+msgid "Size"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:93
+msgid "Data Type"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:114
+msgid "Exclude"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:127
+msgid "Title HTML Tag"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:140
+msgid "Button Label"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:151
+msgid "Button Icon"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:182
+msgid "Enable Image Link"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:192
+msgid "Rating Icon"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:205
+msgid "Meta Field Key"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:216
+msgid "Before"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:228
+msgid "After"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:239
+msgid "Fallback"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:241
+msgid "Show this if field value is empty."
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:322
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:100
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:225
+msgid "Add To Wishlist"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:367
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:103
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:269
+msgid "View Wishlist"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:379
+#: includes/widgets/compare/jet-compare-widget.php:792
+msgid "Table"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:383
+msgid "Remove"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:404
+#: includes/widgets/compare/jet-compare-widget.php:2847
+msgid "Action Controls"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:412
+#: includes/widgets/compare/jet-compare-widget.php:435
+msgid "Clear Table"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:420
+#: includes/widgets/compare/jet-compare-widget.php:470
+#: includes/widgets/compare/jet-compare-widget.php:499
+#: includes/widgets/compare/jet-compare-widget.php:547
+#: includes/widgets/compare/jet-compare-widget.php:575
+msgid "Control Icon"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:433
+#: includes/widgets/compare/jet-compare-widget.php:480
+#: includes/widgets/compare/jet-compare-widget.php:509
+#: includes/widgets/compare/jet-compare-widget.php:557
+#: includes/widgets/compare/jet-compare-widget.php:585
+msgid "Control Label"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:446
+msgid "Highlight Differences"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:482
+#: includes/widgets/compare/jet-compare-widget.php:3488
+msgid "Highlight"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:492
+#: includes/widgets/compare/jet-compare-widget.php:568
+#: includes/widgets/compare/jet-compare-widget.php:3140
+msgid "Active"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:511
+msgid "Clear"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:523
+msgid "Differences Visibility"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:559
+msgid "Show Differences"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:587
+msgid "Show All"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:608
+msgid "Empty Compare Text"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:610
+msgid "You have no comparison lists. Add products to the comparison."
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:617
+msgid "Scrolled Table"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:625
+msgid "Scrolled table allow table to be scrolled horizontally."
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:637
+msgid "Scrolled On"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:643
+msgid "Mobile"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:644
+msgid "Tablet"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:645
+msgid "Desktop"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:885
+msgid "Table Heading"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:917
+#: includes/widgets/compare/jet-compare-widget.php:1127
+msgid "Striped rows"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:964
+msgid "Even Background Color"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:987
+#: includes/widgets/compare/jet-compare-widget.php:1178
+msgid "Row Hover Background Color"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:998
+#: includes/widgets/compare/jet-compare-widget.php:1189
+msgid "Even Row Hover Background Color"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1025
+msgid "Hidden Border for Header Container"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1053
+#: includes/widgets/compare/jet-compare-widget.php:1245
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1066
+#: includes/widgets/compare/jet-compare-widget.php:1258
+#: includes/widgets/compare/jet-compare-widget.php:1883
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1490
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1097
+msgid "Table Cell"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1105
+msgid "Min Width"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1144
+msgid "Row Background Color"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1155
+msgid "Even Row Background Color"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1216
+msgid "Hidden border for body container"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1459
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2309
+msgid "Offset"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1699
+msgid "Space Between Prices"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1718
+#: includes/widgets/compare/jet-compare-widget.php:1898
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1200
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1414
+msgid "Regular"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1753
+#: includes/widgets/compare/jet-compare-widget.php:1816
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1236
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1300
+msgid "Font Weight"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1766
+#: includes/widgets/compare/jet-compare-widget.php:1829
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1249
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1313
+msgid "Text Decoration"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1781
+#: includes/widgets/compare/jet-compare-widget.php:1935
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1264
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1451
+msgid "Sale"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:1846
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1375
+msgid "Currency Sign"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:2010
+#: includes/widgets/compare/jet-compare-widget.php:2942
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1138
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1158
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1619
+msgid "Space Between"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:2034
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1643
+msgid "All"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:2055
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1664
+msgid "Rated"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:2277
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1933
+msgid "Loading"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:2515
+#: includes/widgets/wishlist/jet-wishlist-widget.php:908
+msgid "On Backorder"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:2535
+#: includes/widgets/wishlist/jet-wishlist-widget.php:928
+msgid "Out Of Stock"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:3002
+#: includes/widgets/compare/jet-compare-widget.php:3082
+#: includes/widgets/compare/jet-compare-widget.php:3168
+#: includes/widgets/compare/jet-compare-widget.php:3254
+msgid "Icon Color"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:3013
+#: includes/widgets/compare/jet-compare-widget.php:3093
+#: includes/widgets/compare/jet-compare-widget.php:3179
+#: includes/widgets/compare/jet-compare-widget.php:3265
+msgid "Icon Background Color"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:3226
+msgid "Disable"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:3349
+msgid "Box Width"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:3375
+msgid "Box Height"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:3413
+msgid "Spacing"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:3436
+msgid "Wrapper"
+msgstr ""
+
+#: includes/widgets/compare/jet-compare-widget.php:3547
+#: includes/widgets/wishlist/jet-wishlist-widget.php:128
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2552
+msgid "Empty Text"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-button.php:21
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:135
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:145
+msgid "Wishlist Button"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:27
+msgid "Wishlist Count Button"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:56
+#: includes/widgets/wishlist/jet-wishlist-widget.php:26
+#: includes/widgets/wishlist/jet-wishlist-widget.php:76
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:127
+#: includes/wishlist/class-jet-cw-wishlist-integration.php:335
+msgid "Wishlist"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-count-button.php:137
+msgid "Display format for count items that added to wishlist."
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:85
+msgid "Product Presets"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:88
+msgid "Preset 1"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:89
+msgid "Preset 2"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:90
+msgid "Preset 3"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:91
+msgid "Preset 4"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:92
+msgid "Preset 5"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:93
+msgid "Preset 6"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:94
+msgid "Preset 7 "
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:95
+msgid "Preset 8 "
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:96
+msgid "Preset 9 "
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:97
+msgid "Preset 10"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:105
+#: includes/widgets/wishlist/jet-wishlist-widget.php:430
+msgid "Columns"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:121
+msgid "Equal Columns Height"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:130
+msgid "No products were added to the wishlist."
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:149
+msgid "HTML Tag"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:163
+msgid "Trim Type"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:166
+msgid "Words"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:167
+msgid "Letters"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:179
+msgid "Length"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:180
+msgid "Set -1 to show full title and 0 to hide it."
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:193
+msgid "Enable Title Tooltip"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:220
+msgid "Image Link"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:228
+msgid "Image Overlay"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:236
+msgid "Image Position"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:240
+msgid "Default"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:280
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1510
+msgid "Excerpt"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:341
+msgid "Add to Cart Button"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:457
+msgid "Item"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:516
+msgid "Content Alignment"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1121
+msgid "Display Type"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1124
+msgid "Block"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:1125
+msgid "Inline"
+msgstr ""
+
+#: includes/widgets/wishlist/jet-wishlist-widget.php:2494
+msgid "Overlay"
+msgstr ""
+
+#: jet-cw.php:213 jet-cw.php:259
+msgid "Elementor"
+msgstr ""
+
+#: jet-cw.php:217 jet-cw.php:232 jet-cw.php:283
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: jet-cw.php:228 jet-cw.php:279
+msgid "WooCommerce"
+msgstr ""
+
+#: jet-cw.php:257
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: jet-cw.php:390
+msgid "Go to settings"
+msgstr ""
+
+#: templates/admin-templates/avaliable-addons-settings.php:9
+msgid "Available Widgets"
+msgstr ""
+
+#: templates/admin-templates/avaliable-addons-settings.php:10
+msgid "List of widgets that will be available when editing the page."
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:12
+msgid "Enable Compare"
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:13
+msgid "Enable compare functionality."
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:23
+#: templates/admin-templates/wishlist-settings.php:23
+msgid "Store type"
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:24
+msgid "Select store type for compare."
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:34
+#: templates/admin-templates/wishlist-settings.php:34
+msgid "Save the list for logged users"
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:35
+msgid "Enable this option if you want save compare list for logged users."
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:45
+msgid "Compare Page"
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:46
+msgid "Choose compare page."
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:56
+msgid "Count products to compare"
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:57
+msgid "Count products to show in compare widget."
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:67
+msgid "Compare Message"
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:68
+msgid ""
+"Message that will show when you reach max products count in compare list."
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:77
+msgid "Add default Compare Button"
+msgstr ""
+
+#: templates/admin-templates/compare-settings.php:78
+msgid "Add compare button to default WooCommerce templates."
+msgstr ""
+
+#: templates/admin-templates/wishlist-settings.php:12
+msgid "Enable Wishlist"
+msgstr ""
+
+#: templates/admin-templates/wishlist-settings.php:13
+msgid "Enable wishlist functionality."
+msgstr ""
+
+#: templates/admin-templates/wishlist-settings.php:24
+msgid "Select store type for wishlist."
+msgstr ""
+
+#: templates/admin-templates/wishlist-settings.php:35
+msgid "Enable this option if you want save wish list for logged users."
+msgstr ""
+
+#: templates/admin-templates/wishlist-settings.php:45
+msgid "Wishlist Page"
+msgstr ""
+
+#: templates/admin-templates/wishlist-settings.php:46
+msgid "Choose wishlist page."
+msgstr ""
+
+#: templates/admin-templates/wishlist-settings.php:56
+msgid "Add default Wishlist Button"
+msgstr ""
+
+#: templates/admin-templates/wishlist-settings.php:57
+msgid "Add wishlist button to default WooCommerce templates."
+msgstr ""

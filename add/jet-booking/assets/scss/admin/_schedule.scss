@@ -1,0 +1,93 @@
+.jet-abaf-settings-schedule {
+	display: flex;
+	gap: 25px;
+	justify-content: space-between;
+
+	&__column {
+		max-width: calc( 50% - 20px );
+		flex: 0 0 calc( 50% - 20px );
+	}
+
+	.cx-vui-collapse__heading {
+		padding: 0;
+	}
+
+	.jet-abaf-disabled-days {
+		.cx-vui-component__control {
+			display: flex;
+			justify-content: flex-end;
+		}
+	}
+
+	.jet-abaf-days-off {
+		&__heading {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			min-height: 32px;
+		}
+
+		&-schedule-slot {
+			border: 2px solid #ECECEC;
+			border-radius: 4px;
+			padding: 10px 10px 10px 15px;
+			margin-top: 10px;
+
+			&__head {
+				display: flex;
+				justify-content: space-between;
+				align-items: flex-start;
+				padding: 0 0 10px;
+
+				&-name {
+					font-size: 15px;
+					line-height: 20px;
+					color: #23282d;
+					font-weight: 500;
+				}
+
+				&-actions {
+					display: flex;
+					align-items: center;
+					gap: 5px;
+				}
+
+				&-actions {
+					.dashicons-trash {
+						color: #C92C2C;
+					}
+
+					.dashicons-edit,
+					.dashicons-trash {
+						&:hover {
+							cursor: pointer;
+							color: #23282d;
+						}
+					}
+
+					.cx-vui-tooltip {
+						left: 50%;
+						width: 110px;
+						box-sizing: border-box;
+						margin-left: -55px;
+
+						span {
+							cursor: pointer;
+						}
+					}
+				}
+			}
+
+			&__body {
+				padding: 10px 0 0 0;
+				color: #7B7E81;
+				font-size: 13px;
+				border-top: 1px solid #ECECEC;
+			}
+		}
+	}
+
+	#jet-abaf-custom-schedule-meta-box & {
+		padding: 20px;
+	}
+}
